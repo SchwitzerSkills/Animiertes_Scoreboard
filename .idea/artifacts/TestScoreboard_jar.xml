@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TestScoreboard:jar">
+    <output-path>$PROJECT_DIR$/../pl</output-path>
+    <root id="archive" name="TestScoreboard.jar">
+      <element id="module-output" name="TestScoreboard" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,4 @@
+main: de.test.spigot.testscoreboard.TestScoreboard
+name: TestScoreboard
+version: 1.0
+author: Phillip
